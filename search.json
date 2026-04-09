@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Media/index.html",
+    "href": "Media/index.html",
+    "title": "미디어",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Math Cafe",
@@ -7,10 +14,31 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "Culture/index.html",
+    "href": "Culture/index.html",
+    "title": "문화",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "교육",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "Language/index.html",
+    "href": "Language/index.html",
+    "title": "언어",
+    "section": "",
+    "text": "No matching items"
   }
 ]
