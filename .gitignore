@@ -1,0 +1,10 @@
+/.quarto/
+**/*.quarto_ipynb
+/.quarto/
+**/*.quarto_ipynb
+_site/
+_book/
+.quarto/
+__pycache__/
+*.pyc
+.jupyter_cache/
