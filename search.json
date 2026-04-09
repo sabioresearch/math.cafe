@@ -14,11 +14,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "Culture/index.html",
-    "href": "Culture/index.html",
-    "title": "문화",
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "교육",
     "section": "",
-    "text": "No matching items"
+    "text": "제로섬\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -28,11 +28,18 @@
     "text": "About this site"
   },
   {
-    "objectID": "Education/index.html",
-    "href": "Education/index.html",
-    "title": "교육",
+    "objectID": "Culture/index.html",
+    "href": "Culture/index.html",
+    "title": "문화",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "Education/posts/ZeroSum/index.html",
+    "href": "Education/posts/ZeroSum/index.html",
+    "title": "제로섬",
+    "section": "",
+    "text": "zero sum content"
   },
   {
     "objectID": "Language/index.html",
