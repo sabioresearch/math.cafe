@@ -1,1 +1,2 @@
-Sitemap: https://sabioresearch.github.io/math.cafe/sitemap.xml
+User-agent: *
+Disallow: /

@@ -1,51 +1,86 @@
 [
   {
-    "objectID": "Media/index.html",
-    "href": "Media/index.html",
-    "title": "미디어",
+    "objectID": "Media/posts/Template/index.html",
+    "href": "Media/posts/Template/index.html",
+    "title": "Template",
     "section": "",
-    "text": "No matching items"
+    "text": "Template content \nsome text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.\n\n여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다.\n\nSome other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed."
+  },
+  {
+    "objectID": "Language/posts/Template/index.html",
+    "href": "Language/posts/Template/index.html",
+    "title": "Template",
+    "section": "",
+    "text": "Template content \nsome text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.\n\n여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다.\n\nSome other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Math Cafe",
+    "title": "씽킹",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "어서오세요 씽커 여러분. 환영합니다!"
   },
   {
-    "objectID": "Education/index.html",
-    "href": "Education/index.html",
-    "title": "교육",
+    "objectID": "Education/posts/Template/index.html",
+    "href": "Education/posts/Template/index.html",
+    "title": "Template",
     "section": "",
-    "text": "제로섬\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Template content \nsome text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.\n\n여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다.\n\nSome other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed."
+  },
+  {
+    "objectID": "Culture/posts/Template/index.html",
+    "href": "Culture/posts/Template/index.html",
+    "title": "Template",
+    "section": "",
+    "text": "Template content \nsome text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.\n\n여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다.\n\nSome other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "About",
+    "title": "연락처",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "Contact/index.html",
+    "href": "Contact/index.html",
+    "title": "연락처",
+    "section": "",
+    "text": "제 블로그에 관심을 가져주셔서 감사합니다.\n궁금한 점이나 제안이 있으시면 아래 링크를 통해 연락해 주세요.\n문의하기"
   },
   {
     "objectID": "Culture/index.html",
     "href": "Culture/index.html",
     "title": "문화",
     "section": "",
-    "text": "No matching items"
+    "text": "Template\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Education/index.html",
+    "href": "Education/index.html",
+    "title": "교육",
+    "section": "",
+    "text": "Template\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemplate\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Education/posts/ZeroSum/index.html",
     "href": "Education/posts/ZeroSum/index.html",
-    "title": "제로섬",
+    "title": "Template",
     "section": "",
-    "text": "zero sum content"
+    "text": "Template content \nsome text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.\n\n여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다. 여기에 본문 텍스트를 길게 작성하면 이미지 왼쪽으로 텍스트가 감싸집니다. 여러 문단을 써도 계속 감싸집니다.\n\nSome other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed.Some other text goes here. This text will wrap around the image on the left side. You can write multiple paragraphs, and the text will continue to wrap around the image as needed."
   },
   {
     "objectID": "Language/index.html",
     "href": "Language/index.html",
     "title": "언어",
     "section": "",
-    "text": "No matching items"
+    "text": "Template\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Media/index.html",
+    "href": "Media/index.html",
+    "title": "미디어",
+    "section": "",
+    "text": "Template\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,31 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/Media/index.html</loc>
-    <lastmod>2026-04-09T08:33:43.133Z</lastmod>
+    <loc>https://math.cafe/Media/posts/Template/index.html</loc>
+    <lastmod>2026-04-18T05:17:47.430Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/index.html</loc>
-    <lastmod>2026-04-09T05:10:50.650Z</lastmod>
+    <loc>https://math.cafe/Language/posts/Template/index.html</loc>
+    <lastmod>2026-04-18T05:17:47.430Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/Education/index.html</loc>
-    <lastmod>2026-04-09T08:30:01.913Z</lastmod>
+    <loc>https://math.cafe/index.html</loc>
+    <lastmod>2026-04-15T14:06:51.978Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/contact.html</loc>
-    <lastmod>2026-04-09T02:29:54.313Z</lastmod>
+    <loc>https://math.cafe/Education/posts/Template/index.html</loc>
+    <lastmod>2026-04-18T05:17:47.430Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/Culture/index.html</loc>
-    <lastmod>2026-04-09T05:05:09.349Z</lastmod>
+    <loc>https://math.cafe/Culture/posts/Template/index.html</loc>
+    <lastmod>2026-04-18T05:17:47.430Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/Education/posts/ZeroSum/index.html</loc>
-    <lastmod>2026-04-09T08:34:15.894Z</lastmod>
+    <loc>https://math.cafe/contact.html</loc>
+    <lastmod>2026-04-15T12:36:24.882Z</lastmod>
   </url>
   <url>
-    <loc>https://sabioresearch.github.io/math.cafe/Language/index.html</loc>
-    <lastmod>2026-04-09T08:32:10.971Z</lastmod>
+    <loc>https://math.cafe/Contact/index.html</loc>
+    <lastmod>2026-04-15T14:05:04.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math.cafe/Culture/index.html</loc>
+    <lastmod>2026-04-15T14:03:46.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math.cafe/Education/index.html</loc>
+    <lastmod>2026-04-18T05:26:08.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math.cafe/Education/posts/ZeroSum/index.html</loc>
+    <lastmod>2026-04-18T05:17:47.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math.cafe/Language/index.html</loc>
+    <lastmod>2026-04-15T14:02:42.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://math.cafe/Media/index.html</loc>
+    <lastmod>2026-04-15T14:03:46.547Z</lastmod>
   </url>
 </urlset>
